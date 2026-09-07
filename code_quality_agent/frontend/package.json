@@ -1,0 +1,26 @@
+{
+  "name": "code-quality-agent",
+  "version": "1.0.0",
+  "description": "React frontend for Autonomous Code Quality & Performance Agent",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-monaco-editor": "^2.1.0",
+    "recharts": "^2.10.4",
+    "axios": "^1.7.2",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
